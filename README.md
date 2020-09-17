@@ -1,5 +1,5 @@
 # JWebCrawler
-JWebCrawler est un outil pour faire du mapping de sites internets.
+JWebCrawler est un outil pour trouver du contenu non reférencé sur des sites internets.
 ```
 mvn compile
 mvn package
