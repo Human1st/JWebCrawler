@@ -1,4 +1,4 @@
-package com.jwebcrawler;
+package com.wcrawl;
 
 import java.net.URI;
 import java.net.http.HttpClient;
